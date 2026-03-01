@@ -1,0 +1,17 @@
+{
+  "name": "Example UK Real Estate Investment Manager",
+  "regulator": "FCA",
+  "jurisdiction": "UK",
+  "permissions": [
+    "MiFID investment advice",
+    "portfolio management",
+    "arranging deals in investments",
+    "managing investments"
+  ],
+  "business_tags": [
+    "real estate",
+    "institutional investors",
+    "alternative investments",
+    "fund management"
+  ]
+}
